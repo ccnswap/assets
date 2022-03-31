@@ -6,20 +6,27 @@
       "patch": 0
   },
   "keywords": [
-      "gemini",
-      "tokens",
-      "trusted"
+      "ccnswap",
+      "tokens"
   ],
-  "logoURI": "https://gemini.com/static/images/loader.png",
+  "logoURI": "https://github.com/ccnswap/assets/raw/main/tokens/logo.png",
   "timestamp": "2021-03-23T14:15:22+0000",
   "tokens": [
       {
-          "name": "1Inch",
-          "chainId": 1,
-          "symbol": "1INCH",
+          "name": "Compute USD",
+          "chainId": 828,
+          "symbol": "UCCN",
           "decimals": 18,
-          "address": "0x111111111117dc0aa78b770fa6a738034120c302",
-          "logoURI": "https://gemini.com/images/currencies/icons/default/1inch.svg"
+          "address": "0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad",
+          "logoURI": "https://github.com/ccnswap/assets/raw/main/tokens/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad/logo.png"
+      },
+      {
+          "name": "CCNSwap Coin",
+          "chainId": 828,
+          "symbol": "CCS",
+          "decimals": 18,
+          "address": "xxxxxxxxxxx",
+          "logoURI": "https://github.com/ccnswap/assets/raw/main/tokens/xxxxxxxx/logo.png"
       }
   ]
 }
