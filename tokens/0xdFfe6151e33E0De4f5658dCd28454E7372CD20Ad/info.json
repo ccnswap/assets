@@ -1,0 +1,11 @@
+{
+    "name": "Compute USD",
+    "website": "https://computecoin.network",
+    "description": "CCN’s Cross-Chain Bridge is designed not only for CCN miners but also for all CCN community members, as it supports token transfers between Binance Smart Chain and Huygens.",
+    "explorer": "https://explore.computecoin.network/token/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad",
+    "type": "CEP20",
+    "symbol": "UCCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad"
+}
