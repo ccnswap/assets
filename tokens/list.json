@@ -19,7 +19,7 @@
           "symbol": "UCCN",
           "decimals": 18,
           "address": "0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad",
-          "logoURI": "https://github.com/ccnswap/assets/raw/main/tokens/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/ccnswap/assets/main/tokens/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad/logo.png"
       },
       {
           "name": "CCNSwap Coin",
@@ -27,7 +27,7 @@
           "symbol": "CCS",
           "decimals": 18,
           "address": "0xE6C455ea1E53370970B8a57c47164755Caf38E4F",
-          "logoURI": "https://github.com/ccnswap/assets/raw/main/tokens/0xE6C455ea1E53370970B8a57c47164755Caf38E4F/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/ccnswap/assets/main/tokens/0xE6C455ea1E53370970B8a57c47164755Caf38E4F/logo.png"
       }
   ]
 }
