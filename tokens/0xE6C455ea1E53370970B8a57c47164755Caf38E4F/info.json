@@ -1,0 +1,11 @@
+{
+    "name": "CCNSwap Coin",
+    "website": "https://ccnswap.org",
+    "description": "CCNSwap, earn, and build on the leading decentralized crypto trading protocol.",
+    "explorer": "https://explore.computecoin.networks/token/0xE6C455ea1E53370970B8a57c47164755Caf38E4F",
+    "type": "CEP20",
+    "symbol": "CCS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE6C455ea1E53370970B8a57c47164755Caf38E4F"
+}
