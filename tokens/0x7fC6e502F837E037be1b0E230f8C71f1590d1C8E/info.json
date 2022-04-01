@@ -1,0 +1,11 @@
+{
+    "name": "Compute coin",
+    "website": "https://computecoin.network",
+    "description": "wrap ccn.",
+    "explorer": "https://explore.computecoin.network/token/0x7fC6e502F837E037be1b0E230f8C71f1590d1C8E",
+    "type": "CEP20",
+    "symbol": "WCCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7fC6e502F837E037be1b0E230f8C71f1590d1C8E"
+}
