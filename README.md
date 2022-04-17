@@ -21,32 +21,31 @@ Such a large collection can be maintained only through a community effort, so _f
 
 Before submitting an asset to this repository, we recommend you have the following information handy:
  - Asset details
- <br/>&ensp;Token Name
- <br/>&ensp;Symbol
- <br/>&ensp;Contract Address
- <br/>&ensp;Decimals
-BNB or TWT to cover the non-refundable processing fee
-Logo
-File Extension: png (Uppercase PNG is considered invalid)
-File Name: logo.png
-Size: 256px by 256px
-Background: Preferably transparent
-Token information file
-File Extension: json (Uppercase JSON is considered invalid)
-File Name: info.json
-Required fields:
-name: name of the token
-type: such as ERC20, BEP2, BEP20, TRC20, TRC10, ...
-symbol: the token symbol
-decimals: number of decimal digits used in the amounts (e.g. 18 for ETH)
-description: a few sentence summary of the token/project
-website: project web site
-explorer: URL of the token explorer page
-id: the id/contract/address of the token, same as the subfolder name
-links: array with name/url pairs, for social media links, documentation, etc.
-tags: Assigning these tags to tokens helps place them on appropriate token menus and ensures your token is evaluated correctly in conditions.
-Checksum address (for ERC20 and BEP20 tokens)
-Checksum addresses can be found on Etherscan or by using this tool
+  <br/>&ensp;Token Name
+  <br/>&ensp;Symbol
+  <br/>&ensp;Contract Address
+  <br/>&ensp;Decimals
+ - Logo
+  <br/>&ensp;File Extension: png (Uppercase PNG is considered invalid)
+  <br/>&ensp;File Name: logo.png
+  <br/>&ensp;Size: 256px by 256px
+  <br/>&ensp;Background: Preferably transparent
+ - Token information file
+  <br/>&ensp;File Extension: json (Uppercase JSON is considered invalid)
+  <br/>&ensp;File Name: info.json
+  <br/>&ensp;Required fields:
+  <br/>&ensp;&ensp;name: name of the token
+  <br/>&ensp;&ensp;type: such as ERC20, BEP2, BEP20, TRC20, TRC10, ...
+  <br/>&ensp;&ensp;symbol: the token symbol
+  <br/>&ensp;&ensp;decimals: number of decimal digits used in the amounts (e.g. 18 for ETH)
+  <br/>&ensp;&ensp;description: a few sentence summary of the token/project
+  <br/>&ensp;&ensp;website: project web site
+  <br/>&ensp;&ensp;explorer: URL of the token explorer page
+  <br/>&ensp;&ensp;id: the id/contract/address of the token, same as the subfolder name
+  <br/>&ensp;&ensp;links: array with name/url pairs, for social media links, documentation, etc.
+  <br/>&ensp;&ensp;tags: Assigning these tags to tokens helps place them on appropriate token menus and ensures your token is evaluated correctly in conditions.
+ - Checksum address (for CRC20 tokens)
+  <br/>&ensp;Checksum addresses can be found on ComputcoinScan or by using this tool
 
 ## Disclaimer
 
