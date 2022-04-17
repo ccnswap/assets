@@ -13,16 +13,16 @@ Such a large collection can be maintained only through a community effort, so _f
 
 ## How to add token
 
-Fork assets repositories
-Add token info
-New pull requests
+ - Fork assets repositories
+ - Add token info
+ - Submit new pull requests
 
 ## Token Specification
 
 Before submitting an asset to this repository, we recommend you have the following information handy:
-Asset details
-Token Name
-Symbol
+ - Asset details
+ --Token Name
+ - Symbol
 Contract Address
 Decimals
 BNB or TWT to cover the non-refundable processing fee
