@@ -21,9 +21,9 @@ Such a large collection can be maintained only through a community effort, so _f
 
 Before submitting an asset to this repository, we recommend you have the following information handy:
  - Asset details
-  - Token Name
-  
-  <br/>&ensp;Symbol
+    
+    Token Name
+    Symbol
   <br/>&ensp;Contract Address
   <br/>&ensp;Decimals
  - Logo
