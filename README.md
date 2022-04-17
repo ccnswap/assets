@@ -20,9 +20,8 @@ Such a large collection can be maintained only through a community effort, so _f
 ## Token Specification
 
 Before submitting an asset to this repository, we recommend you have the following information handy:
- - Asset details
- 
-&ensp; - Token Name
+-Asset details
+ -Token Name
   
   <br/>&ensp;Symbol
   <br/>&ensp;Contract Address
