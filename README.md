@@ -21,10 +21,10 @@ Such a large collection can be maintained only through a community effort, so _f
 
 Before submitting an asset to this repository, we recommend you have the following information handy:
  - Asset details
- <br>&ensp; - Token Name
- <br>&ensp; - Symbol
- <br>&ensp; - Contract Address
- <br>&ensp; - Decimals
+ <br>&ensp;-Token Name
+ <br>&ensp;-Symbol
+ <br>&ensp;-Contract Address
+ <br>&ensp;-Decimals
 BNB or TWT to cover the non-refundable processing fee
 Logo
 File Extension: png (Uppercase PNG is considered invalid)
