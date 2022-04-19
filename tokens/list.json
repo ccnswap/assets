@@ -10,7 +10,7 @@
       "tokens",
       "trusted"
   ],
-  "logoURI": "https://raw.githubusercontent.com/ccnswap/assets/main/tokens/logo.png",
+  "logoURI": "https://assets.ccnswap.org/tokens/logo.png",
   "timestamp": "2021-03-23T14:15:22+0000",
   "tokens": [
       {
@@ -19,7 +19,7 @@
           "symbol": "UCCN",
           "decimals": 18,
           "address": "0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad",
-          "logoURI": "https://raw.githubusercontent.com/ccnswap/assets/main/tokens/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad/logo.png"
+          "logoURI": "https://assets.ccnswap.org/tokens/0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad/logo.png"
       },
       {
           "name": "CCNSwap Coin",
@@ -27,7 +27,7 @@
           "symbol": "CCS",
           "decimals": 18,
           "address": "0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758",
-          "logoURI": "https://raw.githubusercontent.com/ccnswap/assets/main/tokens/0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758/logo.png"
+          "logoURI": "https://assets.ccnswap.org/tokens/0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758/logo.png"
       }
   ]
 }
