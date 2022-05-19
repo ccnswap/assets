@@ -8,28 +8,13 @@
     "decimals": 18,
     "status": "active",
     "id": "0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ccnswap"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ccnswap"
-        },
-        {
-            "name": "website",
-            "url": "https://ccnswap.org"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/ccnswap"
-        },
-        {
-            "name": "email",
-            "url": "ccnswap.org@gmail.com"
-        }
-    ],
+    "links": {
+        "twitter":"https://twitter.com/ccnswap",
+        "telegram":"https://t.me/ccnswap",
+        "github":"https://github.com/ccnswap",
+        "discord":"https://discord.com/invite/zd4ZYwcPth",
+        "email":"ccnswap.org@gmail.com"
+    },
     "tags": [
         "CRC20","DEFI","DEX"
     ]

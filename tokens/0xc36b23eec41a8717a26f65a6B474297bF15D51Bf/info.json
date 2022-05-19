@@ -8,28 +8,13 @@
     "decimals": 18,
     "status": "active",
     "id": "0xc36b23eec41a8717a26f65a6B474297bF15D51Bf",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ccnswap"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ccnswap"
-        },
-        {
-            "name": "website",
-            "url": "https://ccnswap.org"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/ccnswap"
-        },
-        {
-            "name": "email",
-            "url": "ccnswap.org@gmail.com"
-        }
-    ],
+    "links": {
+        "twitter":"https://twitter.com/ccnswap",
+        "telegram":"https://t.me/ccnswap",
+        "github":"https://github.com/ccnswap",
+        "discord":"https://discord.com/invite/zd4ZYwcPth",
+        "email":"ccnswap.org@gmail.com"
+    },
     "tags": [
         "CRC20","Wrapped","DEX"
     ]

@@ -8,32 +8,16 @@
     "decimals": 18,
     "status": "active",
     "id": "0xdFfe6151e33E0De4f5658dCd28454E7372CD20Ad",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/computecoinnet"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/computecoin"
-        },
-        {
-            "name": "website",
-            "url": "https://computecoin.com"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/computecoin-network"
-        },
-        {
-            "name": "email",
-            "url": "dev@computecoin.network"
-        },
-        {
-            "name":"whitepaper",
-            "url":"https://computecoin-network.s3.ap-southeast-1.amazonaws.com/static/ComputeCoin_Whitepaper.pdf"
-        }
-    ],
+    "links": {
+        "twitter":"https://twitter.com/computecoinnet",
+        "telegram":"https://t.me/computecoin",
+        "github":"https://github.com/computecoin-network",
+        "discord":"https://discord.com/invite/Uv8khzfZqd",
+        "email":"dev@computecoin.network",
+        "whitepaper":"https://computecoin-network.s3.ap-southeast-1.amazonaws.com/static/ComputeCoin_Whitepaper.pdf",
+        "youtube":"https://www.youtube.com/channel/UCc4F2qvfdyuQ2Q473s4TS2Q/featured",
+        "instagram":"https://www.instagram.com/computecoin/"
+    },
     "tags": [
         "CRC20","Stable","Bridge"
     ]
