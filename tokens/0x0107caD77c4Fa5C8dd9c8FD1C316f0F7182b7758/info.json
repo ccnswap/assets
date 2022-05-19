@@ -17,5 +17,34 @@
     },
     "tags": [
         "CRC20","DEFI","DEX"
+    ],
+    "exts":[
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/swap?inputCurrency=ccn&outputCurrency=0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/add/0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758/CCN"
+                }
+            ]
+        },
+        {
+            "title":"Mining",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/farm"
+                }
+            ]
+        }
     ]
 }

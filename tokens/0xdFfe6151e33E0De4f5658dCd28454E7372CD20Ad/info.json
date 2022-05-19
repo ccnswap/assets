@@ -20,5 +20,34 @@
     },
     "tags": [
         "CRC20","Stable","Bridge"
+    ],
+    "exts":[
+        {
+            "title":"Bridge",
+            "options":[
+                {
+                    "name":"Computecoin",
+                    "value":"https://computecoin.network/Bridge"
+                }
+            ]
+        },
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/swap?inputCurrency=ccn&outputCurrency=0xdffe6151e33e0de4f5658dcd28454e7372cd20ad"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/add/0xdffe6151e33e0de4f5658dcd28454e7372cd20ad/CCN"
+                }
+            ]
+        }
     ]
 }
