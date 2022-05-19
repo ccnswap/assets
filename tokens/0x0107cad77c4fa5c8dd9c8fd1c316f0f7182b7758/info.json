@@ -1,0 +1,50 @@
+{
+    "name": "CCNSwap Coin",
+    "website": "https://ccnswap.org",
+    "description": "CCNSwap, earn, and build on the leading decentralized crypto trading protocol.",
+    "explorer": "https://tokenscan.ccnswap.org/0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758",
+    "type": "CRC20",
+    "symbol": "CCS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758",
+    "links": {
+        "twitter":"https://twitter.com/ccnswap",
+        "telegram":"https://t.me/ccnswap",
+        "github":"https://github.com/ccnswap",
+        "discord":"https://discord.com/invite/zd4ZYwcPth",
+        "email":"ccnswap.org@gmail.com"
+    },
+    "tags": [
+        "CRC20","DEFI","DEX"
+    ],
+    "exts":[
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/swap?inputCurrency=ccn&outputCurrency=0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/add/0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758/CCN"
+                }
+            ]
+        },
+        {
+            "title":"Mining",
+            "options":[
+                {
+                    "name":"CCNSwap",
+                    "value":"https://huygens.ccnswap.org/#/farm"
+                }
+            ]
+        }
+    ]
+}

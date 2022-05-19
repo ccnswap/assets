@@ -1,0 +1,33 @@
+{
+  "name": "CCNSwap Token List",
+  "version": {
+      "major": 0,
+      "minor": 2,
+      "patch": 0
+  },
+  "keywords": [
+      "gemini",
+      "tokens",
+      "trusted"
+  ],
+  "logoURI": "https://assets.ccnswap.org/tokens/logo.png",
+  "timestamp": "2021-03-23T14:15:22+0000",
+  "tokens": [
+      {
+          "name": "Compute USD",
+          "chainId": 2,
+          "symbol": "UCCN",
+          "decimals": 18,
+          "address": "0xdffe6151e33e0de4f5658dcd28454e7372cd20ad",
+          "logoURI": "https://assets.ccnswap.org/tokens/0xdffe6151e33e0de4f5658dcd28454e7372cd20ad/logo.png"
+      },
+      {
+          "name": "CCNSwap Coin",
+          "chainId": 2,
+          "symbol": "CCS",
+          "decimals": 18,
+          "address": "0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758",
+          "logoURI": "https://assets.ccnswap.org/tokens/0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758/logo.png"
+      }
+  ]
+}
