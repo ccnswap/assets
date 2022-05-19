@@ -2,10 +2,35 @@
     "name": "CCNSwap Coin",
     "website": "https://ccnswap.org",
     "description": "CCNSwap, earn, and build on the leading decentralized crypto trading protocol.",
-    "explorer": "https://explore.computecoin.network/token/0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758",
+    "explorer": "https://tokenscan.ccnswap.org/0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758",
     "type": "CRC20",
     "symbol": "CCS",
     "decimals": 18,
     "status": "active",
-    "id": "0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758"
+    "id": "0x0107caD77c4Fa5C8dd9c8FD1C316f0F7182b7758",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ccnswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ccnswap"
+        },
+        {
+            "name": "website",
+            "url": "https://ccnswap.org"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ccnswap"
+        },
+        {
+            "name": "email",
+            "url": "ccnswap.org@gmail.com"
+        }
+    ],
+    "tags": [
+        "CRC20","DEFI","DEX"
+    ]
 }

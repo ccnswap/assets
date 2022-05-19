@@ -1,11 +1,36 @@
 {
-    "name": "Compute coin",
+    "name": "Wrapped Compute",
     "website": "https://computecoin.network",
-    "description": "wrap ccn.",
-    "explorer": "https://explore.computecoin.network/token/0xc36b23eec41a8717a26f65a6B474297bF15D51Bf",
+    "description": "wrapped compute coin",
+    "explorer": "https://tokenscan.ccnswap.org/0xc36b23eec41a8717a26f65a6B474297bF15D51Bf",
     "type": "CRC20",
     "symbol": "WCCN",
     "decimals": 18,
     "status": "active",
-    "id": "0xc36b23eec41a8717a26f65a6B474297bF15D51Bf"
+    "id": "0xc36b23eec41a8717a26f65a6B474297bF15D51Bf",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ccnswap"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ccnswap"
+        },
+        {
+            "name": "website",
+            "url": "https://ccnswap.org"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/ccnswap"
+        },
+        {
+            "name": "email",
+            "url": "ccnswap.org@gmail.com"
+        }
+    ],
+    "tags": [
+        "CRC20","Wrapped","DEX"
+    ]
 }
