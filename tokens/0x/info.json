@@ -23,6 +23,15 @@
     ],
     "exts":[
         {
+            "title":"Bondpool",
+            "options":[
+                {
+                    "name":"Computecoin",
+                    "value":"https://bonding-pool.computecoin.network/"
+                }
+            ]
+        },
+        {
             "title":"Buy",
             "options":[
                 {
@@ -37,19 +46,6 @@
                 {
                     "name":"CCNSwap",
                     "value":"https://huygens.ccnswap.org/#/add/CCN/0xdffe6151e33e0de4f5658dcd28454e7372cd20ad"
-                }
-            ]
-        },
-        {
-            "title":"Mining",
-            "options":[
-                {
-                    "name":"Computecoin",
-                    "value":"https://huygens-mining.computecoin.network"
-                },
-                {
-                    "name":"CCNSwap",
-                    "value":"https://huygens.ccnswap.org/#/farm"
                 }
             ]
         }
