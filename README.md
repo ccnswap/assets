@@ -27,7 +27,7 @@ Before submitting an asset to this repository, we recommend you have the followi
     
     Symbol
     
-    Address
+    Address (convert to lowercase)
     
     Decimals
  
@@ -51,11 +51,11 @@ Before submitting an asset to this repository, we recommend you have the followi
   
         name: name of the token
 
-        type: such as ERC20, BEP2, BEP20, TRC20, TRC10, ...
+        type: such as CRC20, ERC20, BEP2, BEP20, TRC20, TRC10, ...
 
         symbol: the token symbol
         
-        decimals: number of decimal digits used in the amounts (e.g. 18 for ETH)
+        decimals: number of decimal digits used in the amounts (e.g. 18 for CCN)
         
         description: a few sentence summary of the token/project
         
@@ -63,15 +63,19 @@ Before submitting an asset to this repository, we recommend you have the followi
         
         explorer: URL of the token explorer page
         
-        id: the id/contract/address of the token, same as the subfolder name
+        id: the id/contract/address of the token, same as the subfolder name (convert to lowercase)
         
         links: array with name/url pairs, for social media links, documentation, etc.
         
         tags: Assigning these tags to tokens helps place them on appropriate token menus and ensures your token is evaluated correctly in conditions.
+
+        exts: Extended information for the action menu in tokenscan
  
  - Checksum address (for CRC20 tokens)
  
      Checksum addresses can be found on ComputcoinScan or by using this tool
+
+     Folder address must convert to lowercase
 
 ## Disclaimer
 
