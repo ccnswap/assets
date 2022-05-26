@@ -11,13 +11,12 @@
     "links": {
         "twitter":"https://twitter.com/ToriiFinance",
         "telegram":"https://t.me/ToriiFinance",
-        "email":"dev@torii.finance",
+        "email":"dev@torii.finance"
     },
     "tags": [
         "NFTS","DEFI","PROTOCOL"
     ],
     "exts":[
-       
         {
             "title":"Buy",
             "options":[
