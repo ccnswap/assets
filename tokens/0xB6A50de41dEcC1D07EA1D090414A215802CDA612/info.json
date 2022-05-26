@@ -1,0 +1,40 @@
+{
+    "name": "Torii Finance",
+    "type": "CRC20",
+    "symbol": "TORII",
+    "decimals": 18,
+    "website": "https://Torii.Finance",
+    "description": "TORII is a multi-chain DeFi & Digital Asset Protocol.",
+    "explorer": "https://tokenscan.ccnswap.org/#/0xB6A50de41dEcC1D07EA1D090414A215802CDA612",
+    "status": "active",
+    "id": "0xB6A50de41dEcC1D07EA1D090414A215802CDA612",
+    "links": {
+        "twitter":"https://twitter.com/ToriiFinance",
+        "telegram":"https://t.me/ToriiFinance",
+        "email":"dev@torii.finance",
+    },
+    "tags": [
+        "NFTS","DEFI","PROTOCOL"
+    ],
+    "exts":[
+       
+        {
+            "title":"Buy",
+            "options":[
+                {
+                    "name":"TORII",
+                    "value":"https://huygens.ccnswap.org/#/swap?inputCurrency=0xB6A50de41dEcC1D07EA1D090414A215802CDA612&outputCurrency=ccn"
+                }
+            ]
+        },
+        {
+            "title":"Add Liquidity",
+            "options":[
+                {
+                    "name":"TORII",
+                    "value":"https://huygens.ccnswap.org/#/add/TORII/0xB6A50de41dEcC1D07EA1D090414A215802CDA612"
+                }
+            ]
+        }
+    ]
+}
