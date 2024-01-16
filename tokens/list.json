@@ -20,22 +20,6 @@
           "decimals": 18,
           "address": "0xdffe6151e33e0de4f5658dcd28454e7372cd20ad",
           "logoURI": "https://assets.ccnswap.org/tokens/0xdffe6151e33e0de4f5658dcd28454e7372cd20ad/logo.png"
-      },
-      {
-          "name": "CCNSwap Coin",
-          "chainId": 2,
-          "symbol": "CCS",
-          "decimals": 18,
-          "address": "0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758",
-          "logoURI": "https://assets.ccnswap.org/tokens/0x0107cad77c4fa5c8dd9c8fd1c316f0f7182b7758/logo.png"
-      },
-      {
-        "name": "Torii Finance",
-        "chainId": 2,
-        "symbol": "TORII",
-        "decimals": 18,
-        "address": "0xb6a50de41decc1d07ea1d090414a215802cda612",
-        "logoURI": "https://assets.ccnswap.org/tokens/0xb6a50de41decc1d07ea1d090414a215802cda612/logo.png"
-    }
+      }
   ]
 }
