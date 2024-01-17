@@ -1,0 +1,11 @@
+{
+    "name": "USDT",
+    "website": "USDT",
+    "description": "USDT",
+    "explorer": "USDT",
+    "type": "CRC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbe5a256Fb54f061DB2dCdCE8386133C419e9Ee8e"
+}
